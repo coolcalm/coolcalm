@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "href=www.coolcalmcomposed.com",
+  "footer": "www.coolcalmcomposed.com",
   "usage-stats": false
 }
